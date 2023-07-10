@@ -28,15 +28,3 @@ Download the documentation from here -> [Minor Project report](https://github.co
 
 If you have any feedback, please reach out to us at namalavug20.cse@nitp.ac.in , yallampatih.ug20.cse@nitp.ac.in and kethavaths.ug20.cse@nitp.ac.in
 
-
-
-
-## Documentation
-
-Download the documentation from here -> [Minor Project report](https://github.com/VENKATARAO-014/Minor_Project-1_Grp-68/blob/main/Minor%20Report/Minor%20Project%20Report.pdf) .
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at namalavug20.cse@nitp.ac.in , yallampatih.ug20.cse@nitp.ac.in and kethavaths.ug20.cse@nitp.ac.in
-
